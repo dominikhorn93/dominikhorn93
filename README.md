@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Kafka and Spring Cloud Stream**
 
-- 👨‍💻 All of my projects are available at [https://www.miragon.io/](https://www.flowsquad.io/)
+- 👨‍💻 All of my projects are available at [https://www.miragon.io/](https://www.miragon.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@flowsquad](https://medium.com/@miragon)
+- 📝 I regularly write articles on [https://medium.com/@miragon](https://medium.com/@miragon)
 
 - 💬 Ask me about **Camunda, Spring Boot and Microservices**
 
