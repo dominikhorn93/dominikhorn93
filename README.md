@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.miragon.io/](https://www.flowsquad.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@flowsquad](https://medium.com/@flowsquad)
+- 📝 I regularly write articles on [https://medium.com/@flowsquad](https://medium.com/@miragon)
 
 - 💬 Ask me about **Camunda, Spring Boot and Microservices**
 
