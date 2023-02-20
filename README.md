@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [DigiWF](https://github.com/it-at-m)
 
-- 🌱 I’m currently learning **Kafka and Spring Cloud Stream**
-
 - 👨‍💻 All of my projects are available at [https://www.miragon.io/](https://www.miragon.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@miragon](https://medium.com/@miragon)
