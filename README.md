@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/dominikhorn93" target="blank"><img src="https://img.shields.io/twitter/follow/dominikhorn93?logo=twitter&style=for-the-badge" alt="dominikhorn93" /></a> </p>
 
-- 🔭 I’m currently working on [DigiWF](https://github.com/it-at-m)
-
 - 👨‍💻 All of my projects are available at [https://www.miragon.io/](https://www.miragon.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@miragon](https://medium.com/@miragon)
