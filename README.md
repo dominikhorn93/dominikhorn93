@@ -1,31 +1,38 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">passionated fullstack developer focusing on process automation technologies</h3>
+# Hi, I'm Dominik 👋
 
-<p align="left"> <a href="https://twitter.com/dominikhorn93" target="blank"><img src="https://img.shields.io/twitter/follow/dominikhorn93?logo=twitter&style=for-the-badge" alt="dominikhorn93" /></a> </p>
+I'm co-founder and IT architect at [Miragon](https://www.miragon.io/). I build software that turns BPMN diagrams into running processes instead of pretty posters for the meeting room. The topics I keep coming back to: IT architecture, BPM and AI, and how the three fit together.
 
-- 👨‍💻 All of my projects are available at [https://www.miragon.io/](https://www.miragon.io/)
+Off the clock you'll find me training for a triathlon, on skis or in the gym.
 
-- 📝 I regularly write articles on [https://medium.com/@miragon](https://medium.com/@miragon)
+## 🔭 What I'm working on
 
-- 💬 Ask me about **Camunda, Spring Boot and Microservices**
+- **[miragon.ai](https://miragon.ai)** ([repo](https://github.com/Miragon/miragon-ai)): process analytics and operations for Camunda 7-based engines, exposed to AI over the Model Context Protocol
+- **[bpm-iq](https://github.com/Miragon/bpm-iq)**: git-native BPM with live editing and AI over MCP. Let your process talk.
+- The common thread: I'm bringing process automation into AI, not the other way around.
 
-- 📫 How to reach me **dominik.horn@miragon.io**
+## 💬 Ask me about
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dominikhorn93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominikhorn93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dominik-horn-21611283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://de.linkedin.com/in/dominik-horn-21611283" height="30" width="40" /></a>
-</p>
+Process automation from modeling to operations, and the stack around it:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## GitHub Stats
+## ✍️ I write
 
-<a href="https://github.com/dominikhorn93">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikhorn93&hide=html,tex&title_color=2c73d2&text_color=c9cacc&icon_color=2c73d2&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/lmoesle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikhorn93&show_icons=true&line_height=27&count_private=true&title_color=2c73d2&text_color=c9cacc&icon_color=2c73d2&bg_color=1d1f21" alt="dominikhorn93 github stats" />
-</a>
+On [Medium](https://medium.com/miragon) I write about process automation, software architecture and the things I've learned in real projects. Start here:
 
+- [Why Big BPMN Processes Fail, and How Residuality Theory Shows We Can Do Better](https://medium.com/miragon/why-big-bpmn-processes-fail-and-how-residuality-theory-shows-we-can-do-better-89d172e4d344)
+- [Mastering Complexity: How to Succeed with Process Automation](https://medium.com/miragon/mastering-complexity-how-to-succeed-with-process-automation-eb322ca645a9)
+
+## 📫 Get in touch
+
+Want to talk process automation, have a project in mind or just a question? Reach out.
+
+- Email: [dominik.horn@miragon.io](mailto:dominik.horn@miragon.io)
+- LinkedIn: [Dominik Horn](https://linkedin.com/in/dominik-horn-21611283)
