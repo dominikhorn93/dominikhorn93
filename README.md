@@ -32,7 +32,6 @@ On [Medium](https://medium.com/miragon) I write about process automation, softwa
 
 ## 📫 Get in touch
 
-Want to talk process automation, have a project in mind or just a question? Reach out.
+Want to talk about process automation, have a project in mind or just a question? Reach out.
 
-- Email: [dominik.horn@miragon.io](mailto:dominik.horn@miragon.io)
 - LinkedIn: [Dominik Horn](https://linkedin.com/in/dominik-horn-21611283)
